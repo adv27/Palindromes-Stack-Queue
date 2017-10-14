@@ -65,7 +65,7 @@ public class Queue<E> {
     /**
      * Returns a string representation of this queue.
      *
-     * @return the sequence of items in FIFO order, seperate by space
+     * @return the sequence of items in FIFO order, separate by space
      */
     @Override
     public String toString() {
